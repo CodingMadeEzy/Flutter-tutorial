@@ -1,37 +1,37 @@
-void main(List<String> args) {
-  ///FUNCTIONS ON STRING
-  String dummy = "Ramesh";
+// void main(List<String> args) {
+//   ///FUNCTIONS ON STRING
+//   String dummy = "Ramesh";
 
-  // SUBSTRING
-  // String subSting = dummy.substring(0,3);
-  // print(subSting);
+//   // SUBSTRING
+//   // String subSting = dummy.substring(0,3);
+//   // print(subSting);
 
-  //ENDS WITH
-  // print(dummy.endsWith("ssh"));
-  // print(dummy.contains("Rameshwar"));
+//   //ENDS WITH
+//   // print(dummy.endsWith("ssh"));
+//   // print(dummy.contains("Rameshwar"));
 
-  //contains
-  // print(dummy.contains("Rameshwar"));
+//   //contains
+//   // print(dummy.contains("Rameshwar"));
 
-  //characters
+//   //characters
 
-  //lower case
-  // print(dummy.toLowerCase());
+//   //lower case
+//   // print(dummy.toLowerCase());
 
-  //upper case
-  // print(dummy.toUpperCase());
+//   //upper case
+//   // print(dummy.toUpperCase());
 
-  ////////// INTEGER ///////////
-  //
-  int dummy2 = 24;
+//   ////////// INTEGER ///////////
+//   //
+//   int dummy2 = 24;
 
-  // print(dummy2.sign);
+//   // print(dummy2.sign);
 
-    // print(dummy2.isNaN);
+//     // print(dummy2.isNaN);
     
 
-  double dummy3 = 24.5;
+//   double dummy3 = 24.5;
   
-  bool dummy4 = false;
-  print(dummy4);
-}
+//   bool dummy4 = false;
+//   print(dummy4);
+// }
